@@ -19,7 +19,7 @@ Highlights:
 - supports readonly/disabled/dir="rtl" attributes
 - support data-inputmask attribute
 
-#Athahar:
+##Athahar:
 added the demo.html file.
 
 ## Usage:
